@@ -1,0 +1,55 @@
+﻿@model List<Produto>
+
+@{
+    DateTime dataHora = ViewBag.DataHora;
+}
+
+<h2>Gerenciamento dos Produtos</h2>
+<a asp-action="Cadastrar" class="btn btn-info">Cadastrar Produto</a>
+<table class="table table-hover table-striped"
+       style="margin-top:15px;margin-bottom:15px">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Descrição</th>
+            <th>Preço</th>
+            <th>Quantidade</th>
+            <th>Imagem</th>
+            <th>Criado em</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Produto item in Model)
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@item.Descricao</td>
+                <td>@item.Preco.Value.ToString("C2")</td>
+                <td>@item.Quantidade</td>
+                <td>
+                    <img src="~/ecommerceimagens/@item.Imagem"
+                         alt="@item.Descricao" 
+                         style="width:150px;height:120px"/>
+                </td>
+                <td>@item.CriadoEm</td>
+                <td>
+                    <a asp-action="Remover"
+                       asp-route-id="@item.ProdutoId"
+                       class="btn btn-primary">
+                        Remover
+                    </a>
+                </td>
+                <td>
+                    <a asp-action="Alterar"
+                       asp-route-id="@item.ProdutoId"
+                       class="btn btn-danger">
+                        Alterar
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<b>Dados atualizados em: </b> @dataHora

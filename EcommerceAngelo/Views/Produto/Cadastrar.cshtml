@@ -1,0 +1,54 @@
+﻿@model Produto
+
+<form asp-action="Cadastrar" method="post" 
+    enctype="multipart/form-data">
+    <fieldset>
+        <legend>Cadastrar Produto</legend>
+        <div asp-validation-summary="ModelOnly"
+             class="text-primary"></div>
+        <div class="form-group" id="Nome">
+            <label asp-for="Nome"></label>
+            <input type="text" class="form-control"
+                   asp-for="Nome" />
+            <span asp-validation-for="Nome"
+                  class="text-primary"></span>
+        </div>
+        <div class="form-group" id="Descricao">
+            <label asp-for="Descricao"></label>
+            <input type="text" class="form-control"
+                   asp-for="Descricao" />
+            <span asp-validation-for="Descricao"
+                  class="text-primary"></span>
+        </div>
+        <div class="form-group" id="Preco">
+            <label asp-for="Preco"></label>
+            <input type="text" class="form-control"
+                   asp-for="Preco" />
+            <span asp-validation-for="Preco"
+                  class="text-primary"></span>
+        </div>
+        <div class="form-group" id="Quantidade">
+            <label asp-for="Quantidade"></label>
+            <input type="text"
+                   class="form-control"
+                   asp-for="Quantidade" />
+            <span asp-validation-for="Quantidade"
+                  class="text-primary"></span>
+        </div>
+        <div class="form-group" id="Categorias">
+            <label>Categorias</label>
+            <select asp-items="@ViewBag.Categorias"
+                    class="form-control"
+                    name="drpCategorias">
+                <option> -- SELECIONE -- </option>
+            </select>
+        </div>
+        <div class="form-group" id="Imagem">
+            <label>Imagem:</label><br />
+            <input type="file" name="fupImagem" />
+        </div>
+        <input type="submit"
+               class="btn btn-success"
+               value="Cadastrar" />
+    </fieldset>
+</form>

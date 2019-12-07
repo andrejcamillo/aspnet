@@ -1,0 +1,54 @@
+C:\ProfessorDiogo\C#\EcommerceAngelo\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\ProfessorDiogo\C#\EcommerceAngelo\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\ProfessorDiogo\C#\EcommerceAngelo\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\ProfessorDiogo\C#\EcommerceAngelo\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\diogo\Desktop\AS\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\diogo\Desktop\AS\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\diogo\Desktop\AS\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\diogo\Desktop\AS\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\Users\diogo\Desktop\AS\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\AS\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\AS\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\Users\diogo\Desktop\AS\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\Users\diogo\Desktop\AS\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Aluno\Documents\auaudog\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\Aluno\Documents\auaudog\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Aluno\Documents\auaudog\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Aluno\Documents\auaudog\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\auaudog\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\auaudog\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\auaudog\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\Users\Aluno\Documents\auaudog\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Aluno\Documents\auaudog\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Andre\Downloads\hotelcachorro-master\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\Andre\Downloads\hotelcachorro-master\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Andre\Downloads\hotelcachorro-master\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Andre\Downloads\hotelcachorro-master\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Andre\Downloads\hotelcachorro-master\Domain\obj\Debug\netcoreapp2.1\Domain.pdb

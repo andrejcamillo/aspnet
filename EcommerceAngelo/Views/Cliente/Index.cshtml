@@ -1,0 +1,28 @@
+﻿@model List<Cliente>
+
+@{
+    DateTime dataHora = ViewBag.DataHora;
+}
+
+<h2>Gerenciamento dos Clientes</h2>
+<a asp-action="Cadastrar" class="btn btn-info">Cadastrar Cliente</a>
+<table class="table table-hover table-striped"
+       style="margin-top:15px;margin-bottom:15px">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Descrição</th>
+            <th>Preço</th>
+            <th>Quantidade</th>
+            <th>Imagem</th>
+            <th>Criado em</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        
+    </tbody>
+</table>
+<b>Dados atualizados em: </b> @dataHora

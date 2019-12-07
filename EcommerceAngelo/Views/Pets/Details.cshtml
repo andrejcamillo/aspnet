@@ -1,0 +1,60 @@
+﻿@model Domain.Pet
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pet</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Raca)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Raca)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Castragem)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Castragem)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Pelagem)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Pelagem)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Idade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idade)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Porte)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Porte)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Peso)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Peso)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdPet">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

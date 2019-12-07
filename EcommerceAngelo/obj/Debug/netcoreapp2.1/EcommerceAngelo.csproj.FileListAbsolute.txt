@@ -1,0 +1,284 @@
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.deps.json
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.json
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.dev.json
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csprojAssemblyReference.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CoreCompileInputs.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfoInputs.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfo.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.input.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.output.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorCoreGenerate.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.dll
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CopyComplete
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Index.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Alterar.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.dll
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.dll
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Create.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csprojAssemblyReference.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfo.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.deps.json
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.json
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.dev.json
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.dll
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.input.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.output.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorCoreGenerate.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Create.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Alterar.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Index.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cache
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CopyComplete
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\diogo\Desktop\Nova pasta (2)\ecommerceangelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detalhes.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detalhes.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\CarrinhoCompras.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.deps.json
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.json
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.dev.json
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.dll
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csprojAssemblyReference.cache
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cache
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfo.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.input.cache
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.output.cache
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorCoreGenerate.cache
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Create.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\CarrinhoCompras.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detalhes.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Alterar.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Index.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cache
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cs
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CopyComplete
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\diogo\Desktop\AS\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.deps.json
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.json
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.dll
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cache
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfo.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.input.cache
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.output.cache
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorCoreGenerate.cache
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Create.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\CarrinhoCompras.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detalhes.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Alterar.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Index.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cache
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CopyComplete
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Delete.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Details.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Edit.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\Aluno\Documents\auaudog\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Cadastrar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.deps.json
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.json
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.dev.json
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.dll
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csprojAssemblyReference.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CoreCompileInputs.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfoInputs.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfo.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.input.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.output.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorCoreGenerate.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Create.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Cadastrar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Delete.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detalhes.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Alterar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Index.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cache
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CopyComplete
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Alterar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Delete.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Details.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Index.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Alterar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Cadastrar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Quarto\Index.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Quarto\Alterar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Quarto\Cadastrar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Quarto\Remover.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Servico\Details.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Servico\Index.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Servico\Alterar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Servico\Cadastrar.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Servico\Remover.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\CepTeste.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Teste.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Teste.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\View.g.cshtml.cs
+C:\Users\lcz-x\Desktop\auaudog\hotelcachorro\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csprojAssemblyReference.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfoInputs.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfo.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.deps.json
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.json
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.dev.json
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.dll
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.input.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.output.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorCoreGenerate.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Create.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Alterar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Cadastrar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\CepTeste.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Delete.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Teste.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detalhes.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Alterar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Cadastrar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Delete.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Details.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Index.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Alterar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Index.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Teste.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\View.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Quarto\Alterar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Quarto\Cadastrar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Quarto\Index.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Quarto\Remover.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Reserva\Create.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Reserva\Delete.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Reserva\Details.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Reserva\Edit.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Reserva\Index.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Servico\Alterar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Servico\Cadastrar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Servico\Details.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Servico\Index.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Servico\Remover.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cache
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cs
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\Andre\Downloads\hotelcachorro-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CopyComplete

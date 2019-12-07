@@ -1,0 +1,90 @@
+﻿@model IEnumerable<Domain.Pet>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Cadastrar">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.cliente.Cpf)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Imagem)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Raca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Castragem)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pelagem)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Idade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Porte)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Peso)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente.Cpf)
+            </td>
+
+            <td>
+                <img src="~/ecommerceimagens/@item.Imagem"
+                     alt=""
+                     style="width:150px;height:120px" />
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Raca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Castragem)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pelagem)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Porte)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Peso)
+            </td>
+            <td>
+                <a asp-action="Alterar" asp-route-id="@item.IdPet">Edit</a> |
+                <a asp-action="Remover" asp-route-id="@item.IdPet">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
